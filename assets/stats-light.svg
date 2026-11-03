@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-labelledby="t">
-<title id="t">Public work: 20 projects, 4 live demos, 5 languages</title>
+<title id="t">Public work: 20 projects, 17 live demos, 5 languages</title>
 <defs><clipPath id="bar"><rect x="40" y="168" width="920" height="12" rx="6"/></clipPath></defs>
 <rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
 <text x="40" y="46" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3" fill="#0E7C86">PUBLIC WORK</text>
 <text x="40" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#0B0C10">20</text>
 <text x="40" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#57606A">projects shipped</text>
-<text x="270" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#0B0C10">4</text>
+<text x="270" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#0B0C10">17</text>
 <text x="270" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#57606A">live demos</text>
 <text x="500" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#0B0C10">5</text>
 <text x="500" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#57606A">languages</text>
