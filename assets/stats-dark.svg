@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-labelledby="t">
+<title id="t">Public work: 20 projects, 4 live demos, 5 languages</title>
+<defs><clipPath id="bar"><rect x="40" y="168" width="920" height="12" rx="6"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#0B0C10" stroke="#1F2833"/>
+<text x="40" y="46" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3" fill="#66FCF1">PUBLIC WORK</text>
+<text x="40" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">20</text>
+<text x="40" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#8B949E">projects shipped</text>
+<text x="270" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">4</text>
+<text x="270" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#8B949E">live demos</text>
+<text x="500" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">5</text>
+<text x="500" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#8B949E">languages</text>
+<rect x="40" y="168" width="920" height="12" rx="6" fill="#1F2833"/>
+<g clip-path="url(#bar)">
+<rect x="40.00" y="168" width="319.56" height="12" fill="#3572A5"/>
+<rect x="359.56" y="168" width="274.02" height="12" fill="#F1E05A"/>
+<rect x="633.58" y="168" width="178.53" height="12" fill="#E34C26"/>
+<rect x="812.11" y="168" width="97.19" height="12" fill="#3178C6"/>
+<rect x="909.30" y="168" width="49.28" height="12" fill="#9B6BDF"/>
+</g>
+<circle cx="45" cy="206" r="5" fill="#3572A5"/>
+<text x="58" y="210" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" fill="#8B949E">Python 34.7%</text>
+<circle cx="345" cy="206" r="5" fill="#F1E05A"/>
+<text x="358" y="210" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" fill="#8B949E">JavaScript 29.8%</text>
+<circle cx="645" cy="206" r="5" fill="#E34C26"/>
+<text x="658" y="210" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" fill="#8B949E">HTML 19.4%</text>
+<circle cx="45" cy="230" r="5" fill="#3178C6"/>
+<text x="58" y="234" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" fill="#8B949E">TypeScript 10.6%</text>
+<circle cx="345" cy="230" r="5" fill="#9B6BDF"/>
+<text x="358" y="234" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" fill="#8B949E">CSS 5.4%</text>
+</svg>
