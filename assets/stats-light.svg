@@ -11,11 +11,11 @@
 <text x="500" y="138" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" fill="#57606A">languages</text>
 <rect x="40" y="168" width="920" height="12" rx="6" fill="#D0D7DE"/>
 <g clip-path="url(#bar)">
-<rect x="40.00" y="168" width="319.56" height="12" fill="#3572A5"/>
-<rect x="359.56" y="168" width="274.02" height="12" fill="#F1E05A"/>
-<rect x="633.58" y="168" width="178.53" height="12" fill="#E34C26"/>
-<rect x="812.11" y="168" width="97.19" height="12" fill="#3178C6"/>
-<rect x="909.30" y="168" width="49.28" height="12" fill="#9B6BDF"/>
+<rect x="40.00" y="168" width="319.53" height="12" fill="#3572A5"/>
+<rect x="359.53" y="168" width="274.03" height="12" fill="#F1E05A"/>
+<rect x="633.56" y="168" width="178.54" height="12" fill="#E34C26"/>
+<rect x="812.10" y="168" width="97.20" height="12" fill="#3178C6"/>
+<rect x="909.30" y="168" width="49.29" height="12" fill="#9B6BDF"/>
 </g>
 <circle cx="45" cy="206" r="5" fill="#3572A5"/>
 <text x="58" y="210" font-family="'SF Mono', 'Menlo', 'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" fill="#57606A">Python 34.7%</text>
