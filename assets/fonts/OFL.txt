@@ -1,0 +1,2 @@
+Jost is licensed under the SIL Open Font License, Version 1.1 (https://openfontlicense.org/open-font-license-official-text/).
+File: jost-latin.woff2, the latin subset served by Google Fonts, downloaded October 17, 2026.
